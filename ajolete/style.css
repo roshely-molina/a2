@@ -1,0 +1,151 @@
+body{
+    /*  background-color= cambiar color 
+    font- family = cambiar tipo de fuente */
+    background-image: linear-gradient(105deg, rgb(0 249 255 / 100%) 39%, rgb(51 56 57 / 100%) 96%);
+ /* background-color: aqua;
+  background-position: top center;
+
+  background-image: url(images\ \(1\).jpg), url(images.jpg), url(stock-vector-kawaii-vector-illustration-of-cheerful-tiny-axolotl-cute-floating-pink-axolotl-with-enthusiastic-2078637424.jpg),
+  url(image1.png);
+background-repeat: no-repeat, repeat-x, repeat;
+background-position:
+  10px 20px,
+  top right;
+  /*background-position: 1005% 75%;
+  background: linear-gradient(#f69d3c, #3f87a6);
+
+
+  
+  background-repeat: repeat-x;
+  background-repeat: repeat;
+  background-repeat: space;*/
+  background-repeat: no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+.titulo{
+    font-size: 100px;
+   color:#fbdcb0;
+    background-color: rgb(155, 210, 255);
+    padding: 5px;
+    border-width: thin;
+    border-style: solid;
+    border-color: #000;
+      font-family: "Jersey 10 Charted", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      text-align: center;
+    }
+    
+/*p {
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /*  .imagen1{
+   /* width= tamaño  
+    width: 300px;
+    display: block;
+    margin: auto;
+   
+    
+    }
+.titulo{
+    text-align: center;
+    color: #6e3444;
+    background-color:#ffb5c8;
+    font-family: "Pacifico", cursive;
+    font: 100px "Pacifico", cursive;;
+    font-size-adjust: 0.58;
+
+}
+ h3 {
+    text-align: center;
+    color: #6e3444;
+    background-color: #ffb5c8;
+    font: 50px Arial Narrow;
+    font-size-adjust: 0.5;
+ }
+ .texto1 {
+    text-align: center;
+    color: #6e3444;
+    background-color: #ffb5c8;
+    position: relative;
+    bottom: 50px;
+    font: 50px Arial Narrow;
+    font-size-adjust: 0.5;
+ }
+ .p1 {
+    color: #552130;
+    position: relative;
+    bottom: 48px;
+   }
+   .p2 {
+    color: #552130;
+    position: relative;
+    bottom: 48px;
+    text-align: justify;
+   }
+   .lista1 {
+    color: #e05b81;
+    position: relative;
+    bottom: 48px;
+   }
+    .p3 {
+        color: #552130;
+        position: relative;
+        bottom: 48px;
+        text-align: justify;
+       }
+
+
+   .p5 {
+    color: #552130;
+    text-align: justify;
+   }
+    a {
+        color: #421925;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .link2{
+        color: #552130;
+    
+    }
+    .imagen2{
+        width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 10px ;
+   
+    }  */
